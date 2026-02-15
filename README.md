@@ -6,9 +6,9 @@
 <br>
 <br>
 
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,java)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,java,vue,c)](https://skillicons.dev)
   <br>
-  [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,mysql)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,mysql,bootstrap,blender)](https://skillicons.dev)
 
 <br />
 
